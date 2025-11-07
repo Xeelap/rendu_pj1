@@ -7,7 +7,7 @@
   font-family: "Story Script", sans-serif;
   font-weight: 400;
   font-style: normal;
-}
+} /*Pour les polices*/
 
 body {
   background-image: url(img/bg_cocktail.png);
@@ -15,7 +15,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-position-y: -100px;
-}
+} /*Place l'image de fond*/
 
 header {
   background-color: #d45c5c;
@@ -54,7 +54,7 @@ header {
 .btn {
   text-align: center;
   padding-top: 2%;
-}
+} /*Position le boutton*/
 
 .button {
   display: inline-block;
@@ -70,12 +70,12 @@ header {
   text-decoration: none;
   transition: 0.5s;
   box-shadow: 0 10px #111111;
-}
+} /*design le boutton*/
 .button:hover {
   background-color: #d45c5c;
   color: #e7cdcd;
-}
+} /*animation quand la souris passe sur le boutton*/
 .button:active {
   box-shadow: 0 5px #0e0e0e;
   transform: translateY(4px);
-}
+} /*animation au clic*/

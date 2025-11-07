@@ -8,7 +8,7 @@
   font-family: "Story Script", sans-serif;
   font-weight: 400;
   font-style: normal;
-}
+} /*Pour les polices*/
 
 header {
   background-color: #d45c5c;
@@ -18,12 +18,12 @@ header {
   font-size: 60px;
   padding-top: 5px;
   font-family: "Story Script", sans-serif;
-}
+} /*navbar*/
 
 a {
   color: #111111;
   text-decoration: none;
-}
+} /*pour que le texte dans la navbar ne change pas de couleur et n'est souligné*/
 
 .body {
   background-color: #ad3a3a;
@@ -44,25 +44,24 @@ a {
   align-items: center;
   padding: 40px 60px;
   margin-bottom: 5px;
-}
+} /*design des cases*/
 
 img {
   width: 20%;
   border: 2px solid #1e0101e0;
   border-radius: 10px;
-}
-
+} /*design des images*/
 h2 {
   height: 80px;
   font-size: 60px;
   padding-top: 5px;
   font-family: "Tangerine", sans-serif;
   font-weight: bold;
-}
+} /*design des noms des cocktails*/
 
 p {
   font-family: "Lora", sans-serif;
   font-size: 30px;
   line-height: 2;
   padding-right: 40px;
-}
+} /*design des decriptions*/

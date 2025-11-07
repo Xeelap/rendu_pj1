@@ -79,3 +79,12 @@ header {
   box-shadow: 0 5px #0e0e0e;
   transform: translateY(4px);
 } /*animation au clic*/
+
+.footer {
+  background-color: #d45c5c;
+  padding: 15px 10px;
+  text-align: center;
+  margin-top: 60px;
+  color: #e7cdcd;
+  font-family: "Lora", serif;
+}
